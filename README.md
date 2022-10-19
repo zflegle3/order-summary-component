@@ -1,4 +1,4 @@
-# Live Weather Widget
+# Responsive Order Summary Component
 
 [Live Demo Here!](https://zflegle3.github.io/order-summary-component/)
 
